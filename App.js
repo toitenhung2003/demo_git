@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Tôi tên hưng</Text>
       <Text> Trường </Text>
+      <Text> khiem </Text>
       <StatusBar style="auto" />
     </View>
   );
