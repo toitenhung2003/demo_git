@@ -7,6 +7,7 @@ export default function App() {
       <Text>Tôi tên hưng</Text>
       <Text> Trường </Text>
       <Text> khiem </Text>
+      <Text> phuong </Text>
       <StatusBar style="auto" />
     </View>
   );
