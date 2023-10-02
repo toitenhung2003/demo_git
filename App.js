@@ -8,6 +8,7 @@ export default function App() {
       <Text> Trường </Text>
       <Text> khiem </Text>
       <Text> phuong </Text>
+      <Text> tien </Text>
       <StatusBar style="auto" />
     </View>
   );
